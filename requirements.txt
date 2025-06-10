@@ -1,3 +1,1 @@
-Sionna
-Tensorfolw
 pytest
